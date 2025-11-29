@@ -31,4 +31,5 @@ AI: Custom matching logic (no external models)
 
 ## 🚀 Quick Start
 npm install
+
 npm run dev
